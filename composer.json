@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpclassic/php-shopify": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "b3t\\": "b3t"
+        }
+    }
+
+}
